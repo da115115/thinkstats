@@ -1,0 +1,8 @@
+
+# Chapter 01 - Statistical Thinking for Programmers
+midori http://greenteapress.com/thinkstats/html/thinkstats002.html
+
+# Exercice 1-2:
+# wget http://thinkstats.com/survey.py
+python survey.py ../data
+

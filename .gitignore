@@ -30,5 +30,5 @@ pip-log.txt
 thinkstatssvn/
 
 # Data
-*.dat
+*.dat.gz
 
