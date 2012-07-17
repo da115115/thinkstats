@@ -1,0 +1,5 @@
+midori http://greenteapress.com/thinkstats/nsfg.html
+wget http://greenteapress.com/thinkstats/2002FemPreg.dat.gz # 1.0 MB
+wget http://greenteapress.com/thinkstats/2002FemResp.dat.gz # 3.2 MB
+wget http://greenteapress.com/thinkstats/2002Male.dat.gz # 1.4 MB
+
